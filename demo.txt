@@ -1,1 +1,2 @@
 Added some text into demo.txt file.
+Local edit of file.
